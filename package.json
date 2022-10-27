@@ -1,12 +1,12 @@
 {
-  "name": "parcel-project-template",
+  "name": "hellen",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://MiloszPlesniak.github.io/hellENSefl",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /hellENSefl/"
   },
   "repository": {
     "type": "git",
